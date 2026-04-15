@@ -21,7 +21,7 @@
                       "type": "string",
                       "operation": "equals"
                     },
-                    "id": "ebe6962f-9b44-44fd-a510-76c06e96d4b6"
+                    "id": "YOUR_ID"
                   }
                 ],
                 "combinator": "and"
